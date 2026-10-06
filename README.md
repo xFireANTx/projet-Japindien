@@ -1,4 +1,4 @@
-# projet-S4-
+# projet-Japindien
 
 Pour faire fonctionner ce projet il faudra:
 
